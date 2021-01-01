@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Notitas</string>
+    <string name="bnt_entrar">Entrar</string>
+    <string name="edt_contrasena">Contraseña</string>
+    <string name="edt_email">Email</string>
+    <string name="txt_mynotes">Mis notitas</string>
+    <string name="im_desc">Imagen notas</string>
+    <string name="im_logof">Logo facebook</string>
+    <string name="im_logoi">Logo instagram</string>
+    <string name="img_logot">logo twitter</string>
+    <string name="title_activity_notas">MainActivity</string>
+    <string name="title_note">Notas</string>
+    <string name="title_favorita">Favoritas</string>
+    <string name="title_usuario">Mi perfil</string>
+    <string name="titulo_dialog">Nueva Nota</string>
+    <string name="modificar_nota">Modificar Nota</string>
+    <string name="llenar_datos">Introduzca los datos</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="titulo_nota">Titulo</string>
+    <string name="contenido">Contenido de la nota</string>
+    <string name="color_rojo">Rojo</string>
+    <string name="color_verde">Verde</string>
+    <string name="color_azul">Azul</string>
+    <string name="seleccione_color">Seleccione el Color</string>
+    <string name="favorita">Favorita</string>
+    <string name="agregar_nota">Nueva nota</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="modificar">Editar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
